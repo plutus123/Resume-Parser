@@ -1,3 +1,3 @@
 # Resume-Parser
 
-Make a .env file in which write your open-ai-key
+Make a .env file in which you have to mention your open-ai-key.
