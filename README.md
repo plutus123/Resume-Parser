@@ -4,4 +4,4 @@
  ```
    OPENAI_API_KEY="Your-OPENAI-key"
    ```
-3. Change the path of the Resume with your path
+2. Change the path of the Resume with your path
